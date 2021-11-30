@@ -1,0 +1,2 @@
+Prefix plugins/Prokka/example
+Plugin Prokka inputfile PA14.fasta outputfile myoutput
